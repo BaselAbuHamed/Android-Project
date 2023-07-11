@@ -5,6 +5,8 @@
  
 ***
 
+You can use PHP files to connect to the database contained in the file named androidProj
+
  <details align="center">
 <summary><b> Random ScreenShots ✔⭐</b></summary>
 <table>
