@@ -56,7 +56,7 @@ You can use PHP files to connect to the database contained in the file named and
 * [Basel Abu Hamed](https://github.com/BaselAbuHamed)
 * [Lotfi Qasim](https://github.com/lutfiqasim)
 * [Hazem Owiedat](https://github.com/ewidathazem)
-* Moyiad Haji
+* Moiyad Haji
  
 ***
 ## Special thanks
